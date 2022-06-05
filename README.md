@@ -1,2 +1,2 @@
 # Django e Python
-Fundamentos Django
+Projeto da Alura cursos online, desenvolvido em Python3 com framework Django
